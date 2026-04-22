@@ -21,7 +21,7 @@ A simple console-based calculator built using Java. It performs basic arithmetic
 
 ## 📸 Output Screenshot
 
-![Calculator Output](images/screenshot.png)
+![Calculator Output](images/screenshot.jpg)
 
 ## 📌 Description
 This is a beginner-friendly project to understand basic Java concepts like user input, conditionals, and functions.
